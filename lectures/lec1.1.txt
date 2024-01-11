@@ -1,0 +1,39 @@
+AWS
+Amazon Web Services
+
+Github--> 
+-open source repository(a place holder to store something) for code and project
+-version control system
+
+creating repo from scratch
+1.create same name repo in local system and on github portal
+2.add folders and files of your choice in your local repo
+3.choose public/private.
+4.follow the commands after creating repository using gitbash software
+
+4.1 initialise this repo as valid git repo
+git init
+
+4.2 Add all the files in my working irectory
+git add .
+
+4.3 finalising changes to be available 
+git commit -m "first commit"
+
+4.4 Adding branch main to repo
+git branch -M main
+
+4.5 Adding remote origin
+git remote add origin https://github.com/
+
+4.6 to upload all the changes to github
+git push -u origin main
+
+
+
+
+
+
+
+
+
